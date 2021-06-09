@@ -17,3 +17,5 @@
 
 
 ## Requesting correction regarding responsive and adaptive layout only for mobile # Plantgrowingapp
+
+## App run best in Pixel XL 4
