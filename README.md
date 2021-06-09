@@ -11,11 +11,9 @@
 ![alt text](assets/ss.gif "Logo Title Text 1")
 
 
-## The app is not responsive as it is my first app
+The app is not responsive as it is my first app
 
 
+Requesting correction regarding responsive and adaptive layout only for mobile
 
-
-## Requesting correction regarding responsive and adaptive layout only for mobile # Plantgrowingapp
-
-## App run best in Pixel XL 4
+App run best in Pixel XL 4
